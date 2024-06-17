@@ -1,8 +1,10 @@
-# Yu-Gi-Oh | Jo-ken-po Edition
+# Yu-Gi-Oh | Jo-ken-po Edition 
 
+![Captura de tela 2024-06-17 140451](https://private-user-images.githubusercontent.com/129768609/340439357-74979126-3bf7-4f1f-87f5-0c9a3764e49b.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTg2NTUzOTgsIm5iZiI6MTcxODY1NTA5OCwicGF0aCI6Ii8xMjk3Njg2MDkvMzQwNDM5MzU3LTc0OTc5MTI2LTNiZjctNGYxZi04N2Y1LTBjOWEzNzY0ZTQ5Yi5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNjE3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDYxN1QyMDExMzhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kMDJjOTJmYjlhOGFiY2FmNjI1OTlhYWFhNjc2NjRmODY0NmU1NzFlYzI3Yzk4MGEzZDIyYTUwNzEyYTAwZmI1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.y8xRFoMDPSLoLSBDv3zV_C_RbWU5h-xBYt8--NYbhoA)
+#
 Jogo de jokenpo que criei para praticar conceitos de lógica de programação aplicados a jogos
-
-conceitos utilizados:
+#
+Conceitos utilizados:
 
 - Armazenamento e gerenciamento de estado manual
 - Funções limpas
